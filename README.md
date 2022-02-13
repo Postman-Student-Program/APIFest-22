@@ -18,3 +18,22 @@ All Completed projects of API Fest 2022
 | 65 | [Latest Coding Contests and Hackathons](https://github.com/abhishekchauhan15/HackTest) |
 | 84 | [FAB Library](https://github.com/surajm-333/Postman-API-fest-2022) |
 
+**Completed Projects**
+|Team Number| Team Project Link|   
+|--|--|
+| 2 | [News Aggregator](https://github.com/japsimrans13/all-in-one-news) |
+| 15 | [Url Shortner](https://github.com/SooditK/url-shortner-backend) |
+| 16 | [Github DevCard](https://github.com/ST1LLWATER/Github-Profile-Card-Server) |
+| 20 | [B-Tracker : Budget Tracking App](https://github.com/FidalMathew/API-fest-project) |
+| 29 | [Soup Monsters](https://github.com/manisha-27/Soup-Monsters) |
+| 34 | [Student Management System](https://github.com/Postman-API-Fest-2022/team-34-student-management) |
+| 44 | [ManageX](https://github.com/SatabrataPaul-GitAc/ManageX) |
+| 50 | [BingerWatchers](https://github.com/Abhinav-974/Team-50-API-Fest-2022) |
+| 55 | [Schwag Exchanger](https://github.com/mr-palindrome/API-Fest-2K22) |
+| 60 | [Youtube Stats Displayer](https://github.com/harshmathurx/api-fest) |
+| 61 | [Community Hunter](https://github.com/swapnilsparsh/API-Fest-22) |
+| 71 | [Doctor's Availability](https://github.com/neelshah2409/api_fest) |
+| 75 | [Team Bits N' Bytes](https://github.com/anushbhatia/team_bits_n_bytes) |
+| 86 | [Delhi Bus Transportation Application](https://github.com/raghavdhingra/Postman-Team-86) |
+| 94 | [Falcon NFT](https://github.com/LondheShubham153/falcon-nft) |
+| 105 | [Adopt A Pet](https://github.com/gaonkarsahil/ApiFest2022Team105) |
